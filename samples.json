@@ -1,0 +1,64 @@
+{
+"analyticsbuildersamples": [
+{
+   
+   "name":"Sample1 Name",
+   "description":"",
+   "builderModel":{
+      "nodeDataArray":[
+      ],
+      "linkDataArray":[
+      ]
+   },
+   "c8y_analyticsModel":{
+   },
+   "type":"c8y_PublicAnalyticsBuilderModel",
+   "templateParameters":[
+      {
+         "id":"MP_ur1wjbihc",
+         "name":"firstType_empty",
+         "typeDisplayName":{
+            "typeName":"boolean"
+         },
+         "description":"",
+         "type":"boolean",
+         "optional":false,
+         "defaultValue":false
+      }
+   ],
+   "tags":[
+      
+   ]
+},
+{
+   
+   "name":"Sample2 Name",
+   "description":"",
+   "builderModel":{
+      "nodeDataArray":[
+      ],
+      "linkDataArray":[
+      ]
+   },
+   "c8y_analyticsModel":{
+   },
+   "type":"c8y_PublicAnalyticsBuilderModel",
+   "templateParameters":[
+      {
+         "id":"MP_ur1wjbihc",
+         "name":"firstType_empty",
+         "typeDisplayName":{
+            "typeName":"boolean"
+         },
+         "description":"",
+         "type":"boolean",
+         "optional":false,
+         "defaultValue":false
+      }
+   ],
+   "tags":[
+      
+   ]
+}
+]
+}

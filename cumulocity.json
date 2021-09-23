@@ -1,0 +1,9 @@
+{
+  "contextPath": "streaming-analytics-customization",
+  "availability": "MARKET",
+  "type": "HOSTED",
+  "name": "Streaming-Analytics-Customization",
+  "key": "streaming-analytics-customization-key",
+  "uiHide": true,
+  "noAppSwitcher": true
+}
